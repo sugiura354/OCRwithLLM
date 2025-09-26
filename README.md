@@ -6,7 +6,7 @@
 
 - `ocr_recognition.py`: 画像から文字認識を行う
 - `llm_text_improvement.py`: LLMを使用してテキストを改善する
-- `llm_text_improvement.py`: 上2つをweb上で実行するためのバックエンド
+- `app.py`: 上2つをweb上で実行するためのバックエンド
 - `templetes/index.html` : web表示用htmlファイル
 - `api.txt`: Groq APIキーを保存するファイル, 各自で作成してください
 - `requirements.txt`: 必要なPythonライブラリ
